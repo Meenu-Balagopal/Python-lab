@@ -9,5 +9,5 @@ def fibonacci(n):
         print(t,end="")
         f=s
         s=t
-    n=int(input("Enter n:"))
-    fibonacci(n)
+n=int(input("Enter n:"))
+fibonacci(n)
